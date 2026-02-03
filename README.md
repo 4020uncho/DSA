@@ -1,3 +1,4 @@
+![LeetCode Solved](https://img.shields.io/badge/LeetCode-XXX%20solved-orange?style=flat&logo=leetcode)
 # DSA - Data Structures & Algorithms (C++)
 
 Optimized solutions to LeetCode and core DSA problems in C++. Focus on clean, efficient code with attention to time and space complexity.
